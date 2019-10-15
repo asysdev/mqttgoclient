@@ -1,5 +1,5 @@
 # mqttgoclient
-MQTT Client developed in golang enhancing capability of MQTT Client. It uses mosquitto client underneath for MQTT communication further facilitating developers to focus on application specific code. 
+MQTT Client developed in golang enhancing capability of MQTT Client. It uses paho client underneath for MQTT communication further facilitating developers to focus on application specific code. 
 
 # Usage
 
